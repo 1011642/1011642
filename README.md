@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @1011642
 - 👀 I’m interested in cybersecurity and IT.
-- 🌱 I’m currently learning HTML and CSS.
+- 🌱 I’m currently learning HTML and CSS and working towards both my CompTIA PC Pro and A+ Certifications.
 - 💞️ I’m looking to collaborate on server projects specifying on the Ubuntu LTS Distros.
 - 📫 How to reach me... you can't. Womp Womp :(
 - 😄 Pronouns: he/him/his/they/them/theirs
