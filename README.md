@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @1011642
+- 👋 Hi, I’m Brian.
 - 👀 I’m interested in cybersecurity and IT.
 - 🌱 I’m currently learning HTML and CSS and working towards both my CompTIA PC Pro and A+ Certifications.
 - 💞️ I’m looking to collaborate on server projects specifying on the Ubuntu LTS Distros.
